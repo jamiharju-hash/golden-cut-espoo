@@ -74,8 +74,8 @@ export default function GoldenCutLandingPage() {
               <p className="mb-4 text-[0.75rem] font-black uppercase tracking-[0.24em] text-[var(--champagne)]">
                 Espoo • Walk-in parturi
               </p>
-              <h1 className="font-display text-4xl font-black tracking-[-0.052em] text-[var(--bone)] drop-shadow-[0_1px_0_rgba(0,0,0,0.2)] md:text-6xl">
-                Terävät leikkaukset ilman ajanvarausta.
+              <h1 className="font-display text-[72px] font-black leading-[0.92] tracking-[-0.052em] text-[var(--bone)] drop-shadow-[0_1px_0_rgba(0,0,0,0.2)] min-[1200px]:text-[127px]">
+                Expert Grooming. Distinct Style.
               </h1>
               <p className="mt-6 max-w-xl leading-[1.85] text-[var(--soft)]">
                 Golden Cut tarjoaa modernit miesten hiustenleikkaukset ja parranmuotoilut
